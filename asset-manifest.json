@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Resturant-website/static/css/main.970e63df.css",
+    "main.js": "/Resturant-website/static/js/main.e30da4da.js",
+    "static/media/Jigruthanda.jpg": "/Resturant-website/static/media/Jigruthanda.b1941f1d32bb6365ed8c.jpg",
+    "static/media/Karidosa.png": "/Resturant-website/static/media/Karidosa.8f50ac248fa47af804f7.png",
+    "static/media/Bunparota.png": "/Resturant-website/static/media/Bunparota.f70f02412cfb82ad535b.png",
+    "static/media/Atukalpaya.jpg": "/Resturant-website/static/media/Atukalpaya.d523d717974f66eb9666.jpg",
+    "static/media/pic.jpg": "/Resturant-website/static/media/pic.2e624e56c0191cb45577.jpg",
+    "index.html": "/Resturant-website/index.html",
+    "main.970e63df.css.map": "/Resturant-website/static/css/main.970e63df.css.map",
+    "main.e30da4da.js.map": "/Resturant-website/static/js/main.e30da4da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.970e63df.css",
+    "static/js/main.e30da4da.js"
+  ]
+}
